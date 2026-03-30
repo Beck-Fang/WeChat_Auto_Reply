@@ -1,0 +1,14 @@
+{
+    "api_key": "",
+    "base_url": "https://api.deepseek.com/v1",
+    "model": "deepseek-chat",
+    "limit": 100,
+    "offset": 0,
+    "start_time": "1999-01-01",
+    "end_time": "2099-12-31",
+    "poll_interval": 0.5,
+    "monitor_receive_cooldown_sec": 20,
+    "always_reply": false,
+    "allow_names_start_with": ["方赞炳","24计科"],
+    "allow_names_end_with": ["方赞炳"]
+}

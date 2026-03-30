@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "WeChat-OnlySendMessage_Once": {
+      "command": "python ../../../mcp/WeChat-MCP-Server/src/mcp_server.py"
+    },
+    "WeChat-OnlySearchData_Once": {
+      "command": "python ../../../mcp/WeChat-Strong-MCP/mcp_server.py"
+    }
+  },
+
+  "imports": []
+}
